@@ -2,8 +2,6 @@
 
 👀 I’m interested in Full Stack Development :) I have worked with Reactjs, Python, Flask, Java, MySQL, and PostgreSQL.
 
-💞️ I want to improve the world!
-
 📫 How to reach me: Lets connect on [Linkedin :)](https://www.linkedin.com/in/fatimarah/)
 
 <!---
