@@ -1,6 +1,6 @@
 👋 Hi, I’m Fatima 
 
-👀 I’m interested in Full Stack Development :)
+👀 I’m interested in Full Stack Development :) I have worked with Reactjs, Python, Flask, Java, MySQL, and PostgreSQL.
 
 💞️ I want to improve the world!
 
