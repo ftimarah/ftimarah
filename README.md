@@ -1,14 +1,8 @@
 👋 Hi, I’m Fatima 
 
-
 👀 I’m interested in Full Stack Development :)
 
-
-🌱 I’m currently learning about system design and pattern recognition. 
-
-
-💞️ I’m looking to collaborate on something that helps improve the world!
-
+💞️ I want to improve the world!
 
 📫 How to reach me: Lets connect on [Linkedin :)](https://www.linkedin.com/in/fatimarah/)
 
