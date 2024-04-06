@@ -5,9 +5,6 @@ Software Engineer
 👀 I’m interested in Full Stack Development :) I have worked with Reactjs, Python, Flask, Java, MySQL, and PostgreSQL.
 📫 Lets connect on [Linkedin :)](https://www.linkedin.com/in/fatimarah/)
 
-Skills
-CGitJavaJavaScriptPythonVS CodeSublime TextHTML5ReactNodeJSFast APIOracleMySQLFlaskGoogle CloudSquarespaceDockerMacOSTensorFlowPyTorch
-
 <!---
 ftimarah/ftimarah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
