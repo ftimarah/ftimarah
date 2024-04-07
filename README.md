@@ -6,7 +6,7 @@ New Graduate - Software Engineer
 
 *   🌍  I'm based in Toronto Ontario
 *   ✉️  You can contact me at [https://www.linkedin.com/in/fatimarah/](mailto:https://www.linkedin.com/in/fatimarah/)
-*   🧠  I'm learning The latest cloud technologies like Azure, AWS and GCP and container orchestration tools like Kubernetes and Docker
+*   🧠  I'm learning the latest cloud technologies like Azure, AWS and GCP and container orchestration tools like Kubernetes and Docker
 *   🤝  I'm open to collaborating on Interesting projects that help make the world a better place (cliche I know)
 *   ⚡  I am definitely not CatWoman ;)
 
